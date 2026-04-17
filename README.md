@@ -191,6 +191,7 @@ A local dashboard that visualizes your SEO Prism data. Built with FastAPI + Reac
 - **Portfolio Overview** — all sites at a glance with week-over-week changes
 - **Traffic Sources** — see where users actually come from (not just Google)
 - **The Prism View** — Google vs Bing positions side by side for the same queries
+- **Prism Insights** — automated analyzers that surface patterns the knowledge base identifies: click potential queries, sitemap freshness, schema-HTML parity, and city page bloat
 - **Project Board** — Kanban for tracking actions surfaced by the KB
 
 *Mission Control source code is available to [Patreon supporters](https://patreon.com/ThePracticalAIShift).*
@@ -216,8 +217,8 @@ I'm documenting the entire process of building and using SEO Prism on YouTube:
 - Video 1: [Adapting to the AI Wave](https://youtu.be/lZCTVPDZTjw)
 - Video 2: [How I Used AI Agents to Build a Directory Site](https://youtu.be/JrfZEZrdkpo)
 - Video 3: [The AI Knowledge Base That Saved My AdSense Application](https://youtu.be/P9-RdGEzeY4)
-- Video 4: [DuckDuckGo Sends Me 5x More Traffic Than Google](https://youtu.be/TODO)
-- Video 5: Introducing SEO Prism *(coming soon)*
+- Video 4: DuckDuckGo Sends Me 5x More Traffic Than Google
+- Video 5: Introducing SEO Prism — The SEO Tool That Shows What Google Won't
 
 ## Credits
 
